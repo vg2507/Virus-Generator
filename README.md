@@ -9,4 +9,4 @@ This program is written on python, it can generate a virus for any windows
    
 **!Program need access to internet for downloading viruses!**
 
-Or if you want to get all viruses just download `Viruses.rar`
+Or if you want to get all viruses, just download `Viruses.rar`
