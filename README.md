@@ -6,7 +6,14 @@ This program is written on python, it can generate a virus for any windows
 2. Run the setup as **administrator** and finish the installation.
 3. Create a folder and put `Virus Generator` into it.
 4. Done! All viruses will be installed in **created folder**
-   
+
+
+# Info
+Programming language: Python
+OS: Windows 7, 10, 11
+Written in `Visual Studio Code`
+
+
 **!Program need access to internet for downloading viruses!**
 
 **All viruses will be saved as *.exe***
