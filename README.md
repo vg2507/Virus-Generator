@@ -1,5 +1,5 @@
 # Virus-Generator
-This program is written on python, it can generate a virus for you for any windows
+This program is written on python, it can generate a virus for any windows
 
 # How to install
 1. Click `Releases` and download the installer.
